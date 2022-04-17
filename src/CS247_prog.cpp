@@ -1,6 +1,6 @@
 // CS 247 - Scientific Visualization, KAUST
 //
-// Programming Assignment #2&3
+// Programming Assignment #5
 #include <cstring>
 #include "CS247_prog.h"
 
