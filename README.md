@@ -1,5 +1,4 @@
 # Assignment 5 Description (11% of total grade) #
-**Due: April 30th**
 
 The task for this assignment is the implementation of Vector field visualization.
 
